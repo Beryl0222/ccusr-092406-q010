@@ -1,0 +1,4 @@
+[
+  {"id":"watcher-01","kind":"看护机器人","servicePrice":6000},
+  {"id":"walker-01","kind":"智能助行器","servicePrice":2400}
+]
