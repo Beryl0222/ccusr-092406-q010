@@ -1,4 +1,50 @@
 [
-  {"id":"watcher-01","kind":"看护机器人","servicePrice":6000},
-  {"id":"walker-01","kind":"智能助行器","servicePrice":2400}
+  {
+    "serial": "AW-WK-2603-0007",
+    "model": "智能助行器",
+    "version": "WK-A2",
+    "batch": "WK-A2-2026-03",
+    "custody": "family",
+    "familyId": "F-1024",
+    "deliveredOn": "2026-03-02",
+    "dailyRate": 800,
+    "subsidyRate": 0.5
+  },
+  {
+    "serial": "AW-WK-2603-0011",
+    "model": "智能助行器",
+    "version": "WK-A2",
+    "batch": "WK-A2-2026-03",
+    "custody": "warehouse",
+    "dailyRate": 800,
+    "subsidyRate": 0.5
+  },
+  {
+    "serial": "AW-WK-2602-0042",
+    "model": "智能助行器",
+    "version": "WK-A2",
+    "batch": "WK-A2-2026-02",
+    "custody": "repair_shop",
+    "dailyRate": 800,
+    "subsidyRate": 0.5
+  },
+  {
+    "serial": "AW-WK-2609-0103",
+    "model": "智能助行器",
+    "version": "WK-A2",
+    "batch": "WK-A2-2026-09",
+    "custody": "warehouse",
+    "dailyRate": 800,
+    "subsidyRate": 0.5,
+    "role": "replacement-stock"
+  },
+  {
+    "serial": "AW-WT-2601-0003",
+    "model": "看护机器人",
+    "version": "WT-B1",
+    "batch": "WT-B1-2026-01",
+    "custody": "warehouse",
+    "dailyRate": 2000,
+    "subsidyRate": 0.6
+  }
 ]
